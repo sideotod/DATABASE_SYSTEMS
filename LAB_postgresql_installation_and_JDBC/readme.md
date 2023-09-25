@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Week%203&fontSize=60&fontColor=black)
-
 # PostgreSQL in Ubuntu
 ### 1. Installing PostgreSQL
 > Updating apt(Advanced Packaging Tool) for installing and using postgreSQL
@@ -136,4 +134,3 @@ user@username $ vim programName.java
 user@username $ javac -cp ':/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/postgresql-42.6.0.jar' programName.java
 user@username $ java -cp ':/usr/lib/jvm/java-1.8.0-openjdk-amd64/lib/postgresql-42.6.0.jar' programName
 ```
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
